@@ -1,4 +1,4 @@
-# Animal-Crossing-Calculator
+# Animal-Crossing-Calculator(Python 3)
 A Class I wrote that will calculate how many bells will you profit when burying x bells as a money tree. Takes in 4 pieces of information: 
 
 Minimum Bells: The Minimum amount that will be used when displaying results. If you wanted to see every profit chance ranging from 5,000 to 90,000, Minimum Bells would be that 5,000
