@@ -67,7 +67,7 @@ class FindBells:
             for _ in range(0, DayCount): #Runs the simulation for X days
                 OverallBellCount -= BellCount #Removes the 'input' value each day (for reburial the next day)
                 if BellCount <= 10000: #Compares to see if the input is over or under 10000 Bells
-                    OverallBellCount += (BellCount * 2)
+                    OverallBellCount += (BellCount * 3)
                 else: #Else, rolls a random chance to see if 3x is returned, or 30,000
                     Chance = random.randint(1,100)
                     if Chance <= self.success_Chance:
