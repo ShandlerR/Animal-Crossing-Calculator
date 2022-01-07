@@ -9,7 +9,7 @@ Step: The amount the program will step up for the next display. if we wanted to 
 
 Days: The Amount of time to test against. if we want to see how much money we could make in 10 days, buring 10,000 in the ground every day we would set days to 10. 
 
-  Example: Show all results for 2,000 ; 4,000 ; 6,000 ; 8,000 if we bury every day for 10 days.\
+  Example: Show all results for 2,000 ; 4,000 ; 6,000 ; 8,000 if we bury every day for 10 days.
    * MinBells: 2000
    * MaxBells: 8000
    * Step: 2000
